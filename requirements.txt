@@ -4,4 +4,7 @@ numpy
 requests
 matplotlib
 scikit-learn
+pickle
+os
+datetime
 tensorflow==2.12.1   
