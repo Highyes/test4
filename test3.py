@@ -11,8 +11,8 @@ from tensorflow.keras.models import load_model
 import matplotlib.pyplot as plt
 
 SERVICE_KEY    = "pEbdNSKcRZaG3TUinCWWmQ"
-MODEL_DIR      = "/home/iwh/season_models_final"
-HIST_DATA_PATH = "/mnt/c/Users/user/Desktop/3학기/딥러닝/term project/deep learning data_revised.csv"
+MODEL_DIR      = "season_models_final"
+HIST_DATA_PATH = "data/deep_learning_data_revised.csv"
 
 EXOG_COLS = ["air_temp", "precipitable_water", "humidity"]
 
